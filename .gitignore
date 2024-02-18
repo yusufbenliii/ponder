@@ -1,0 +1,4 @@
+.ponder/
+generated/
+.env.local
+**/*.node
